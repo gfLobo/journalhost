@@ -3,17 +3,17 @@ title: "About"
 description: "A bit about me and this blog."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Journalhost is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ![Astro Paper](@/assets/images/astropaper-og.jpg)
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Journalhost provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+The blog posts in this theme also serve as guides, docs or example articles\_ making Journalhost a flexible starting point for your next content-driven site.
 
 ## Features
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+Journalhost comes with a set of useful features that make content publishing easy and effective:
 
 - SEO-friendly
 - Fast performance
@@ -28,7 +28,7 @@ and so much more.
 
 ## Show your support
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+If you like [Journalhost](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
 
 Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
 
