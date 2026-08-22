@@ -1,5 +1,11 @@
 ---
-name: "Solicitação de postagem"
+name: "🗞 Solicitação de postagem"
+about: Solicite aqui sua postagem
+title: "[Post Request]: Título do seu post"
+labels: post
+assignees: ""
+---
+---
 title: "Título do Post"
 description: "Descrição curta e objetiva do conteúdo do post."
 pubDatetime: 2026-08-22T20:00:00Z
