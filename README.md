@@ -1,4 +1,4 @@
-# Journalhost
+![logo](/src/assets/images/journalhost-ascii.webp)
 
 Journalhost é um blog pessoal minimalista, responsivo e acessível. Este tema foi desenvolvido e criado com base no [Astropaper](https://astro.build/themes/details/astropaper/).
 
