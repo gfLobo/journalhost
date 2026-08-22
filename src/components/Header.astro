@@ -11,6 +11,8 @@ import LinkButton from "./LinkButton.astro";
 import { stripBase, stripLocale } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
+import Image from "astro/components/Image.astro";
+import logo from "@/assets/images/journalhost-ascii.png";
 
 const { site, features } = config;
 
@@ -52,7 +54,7 @@ const isActive = (path: string) => {
       href={getRelativeLocaleUrl(locale, "")}
       class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
     >
-      {site.title}
+        <Image src={logo} alt="My Blog" class="dark:invert" />
     </a>
     <nav
       id="nav-menu"
