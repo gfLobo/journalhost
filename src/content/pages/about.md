@@ -1,37 +1,45 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "Sobre"
+description: "Um pouco sobre mim e este blog."
 ---
+**Journalhost** é um blog minimalista e pessoal, criado para compartilhar experiências,
+aprendizados, reflexões sobre tecnologia e desenvolvimento de software. 
 
-Journalhost is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Acredito que, por meio do compartilhamento de informações e vivências reais, podemos 
+nos aperfeiçoar cada vez mais como profissionais e seres humanos. 
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Em um mundo focado cada vez mais em resultados e engajamento percebo uma decadência 
+da atenção às ideias e ao progresso. A velocidade dos conteúdos digitais parece ter
+enfraquecido o interesse pela criação, pela leitura e pela apreciação cuidadosa do conhecimento.
+Infelizmente tudo parece se tornar um serviço ou produto, seja em uma assinatura ou estatística analítica.
 
-Journalhost provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Este blog segue justamente na direção oposta. Se trata apenas de um jornal feito por mim, 
+[Gustavo Lobo](https://github.com/gflobo), um desenvolvedor de software que compartilha aprendizados e
+reflexões do dia a dia, tanto no ambiente de trabalho quanto em projetos pessoais relacionados à tecnologia.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making Journalhost a flexible starting point for your next content-driven site.
+Como entusiasta do mundo [Free software](https://www.fsf.org/) e [Open Source Initiative](https://opensource.org/),
+gostaria de também contribuir, ainda que modestamente, para essas iniciativas/comunidades,
+como forma de espalhar o ideal da tecnologia como uma ferramenta de resolução de
+problemas e aprimoramento da sociedade.
 
-## Features
 
-Journalhost comes with a set of useful features that make content publishing easy and effective:
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Recursos
 
-and so much more.
+O **Journalhost** herda do **[AstroPaper](https://github.com/satnaing/astro-paper)** um conjunto de recursos que tornam a publicação de conteúdo simples, rápida e eficiente:
 
-## Show your support
+- Otimizado para SEO.
+- Alto desempenho e carregamento rápido.
+- Suporte a modo claro e escuro.
+- Altamente personalizável.
+- Organização eficiente de artigos e conteúdo.
+- Layout responsivo e acessível.
+- Busca estática integrada com **[Pagefind](https://pagefind.app/)**.
+- Geração automática de imagens para compartilhamento em redes sociais.
 
-If you like [Journalhost](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Feedback, Sugestões e Contribuições
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+Sinta-se à vontade para abrir uma issue caso encontre algum bug, queira solicitar novos recursos ou mesmo se quiser contribuir com uma nova publicação.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+### Mais informações
+Confira o **[README](https://github.com/gflobo/journalhost#readme)** do blog no Github para mais informações e crie o seu próprio blog a partir deste!

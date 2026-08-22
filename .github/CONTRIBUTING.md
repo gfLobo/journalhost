@@ -1,55 +1,57 @@
-# How to contribute to Journalhost
+# Como contribuir para o Journalhost
 
-Thank you for your interest in contributing to **Journalhost**! We appreciate every contribution, whether you're fixing a typo, improving documentation, or adding a new feature.
+Obrigado pelo seu interesse em contribuir para o **Journalhost**! Agradecemos toda e qualquer contribuição, seja corrigindo um erro de digitação, melhorando a documentação ou adicionando um novo recurso.
 
-## Types of Contributions
+## Tipos de contribuições
 
-There are several ways to contribute to **Journalhost**, and every contribution counts\_ whether it's a PR for a major feature or a small fix.
+Existem várias maneiras de contribuir para o **Journalhost**, e toda contribuição conta — seja um PR para um recurso importante ou uma pequena correção.
 
-You can also contribute by leaving review comments on PRs, adding ideas to existing GitHub Issues and Discussions, or helping others by answering questions in GitHub Discussions.
+Você também pode contribuir deixando comentários em PRs, adicionando ideias a Issues e Discussions existentes no GitHub ou ajudando outras pessoas respondendo perguntas nas GitHub Discussions.
 
-Here’s a summary of the different ways you can contribute:
+Aqui está um resumo das diferentes formas de contribuir:
 
-- [Opening a new issue](#open-a-new-issue)
-- [Submitting PRs](#feature-requests)
-  - [Solving an existing issue](#solving-an-issue)
-  - [Making changes to a blog post](#making-changes-to-a-blog-post)
-- [Helping others by answering issues/discussions](#helping-with-github-issuesdiscussions)
-- [Reviewing existing PRs](#reviewing-existing-prs)
-- [Starting a discussion](#starting-a-discussion)
+- [Abrir uma nova issue](#abrir-uma-nova-issue)
+- [Enviar PRs](#solicitações-de-recursos)
+  - [Resolver uma issue existente](#resolver-uma-issue)
+  - [Fazer alterações em uma publicação do blog](#fazer-alterações-em-uma-publicação-do-blog)
+- [Ajudar outras pessoas respondendo a issues/discussions](#ajudar-com-issuesdiscussions-do-github)
+- [Revisar PRs existentes](#revisar-prs-existentes)
+- [Iniciar uma discussão](#iniciar-uma-discussão)
 
-## Open a new Issue
+## Abrir uma nova Issue
 
-If you find a bug or problem, first check whether a similar issue already exists. If you don’t find any open issue that addresses the bug/problem you’re facing, feel free to [open a new issue](https://github.com/satnaing/astro-paper/issues/new/choose).
+Se você encontrar um bug ou problema, primeiro verifique se já existe uma issue semelhante. Caso não encontre nenhuma issue aberta que trate do bug/problema que você está enfrentando, fique à vontade para [abrir uma nova issue](https://github.com/gflobo/journalhost/issues/new/choose).
 
-## Feature Requests
+## Solicitações de recursos
 
-If you have an idea for a new feature or enhancement that could improve Journalhost, we’d love to hear it! Before submitting a new feature request, please:
+Se você tiver uma ideia para um novo recurso ou melhoria que possa aprimorar o Journalhost, adoraríamos ouvi-la! Antes de enviar uma nova solicitação de recurso, siga estas etapas:
 
-1. **Check existing discussions/issues**: Review the [Discussions](https://github.com/satnaing/astro-paper/discussions) or [Issues](https://github.com/satnaing/astro-paper/issues) to see if the feature has already been requested or discussed. You can contribute by adding your thoughts or upvoting existing requests.
-2. **Open a new issue**: If you don’t find an existing discussion, you can open a new issue using the [Feature Request Template](https://github.com/satnaing/astro-paper/issues/new?assignees=&labels=enhancement&projects=&template=%E2%9C%A8-feature-request.md&title=%5BFeature+Request%5D%3A+). Be as detailed as possible, describing the problem this feature would solve and how it would benefit Journalhost users.
-3. **Discuss first**: If you’re unsure whether your idea is feasible or fits the project’s goals, feel free to [start a GitHub Discussion](https://github.com/satnaing/astro-paper/discussions/new/choose) to gather feedback from the community.
+1. **Verifique as discussões/issues existentes**: consulte as [Discussions](https://github.com/gflobo/journalhost/discussions) ou [Issues](https://github.com/gflobo/journalhost/issues) para verificar se o recurso já foi solicitado ou discutido. Você pode contribuir adicionando suas ideias ou votando positivamente nas solicitações existentes.
+2. **Abra uma nova issue**: caso não encontre uma discussão existente, você pode abrir uma nova issue usando o [Template de Solicitação de Recurso](https://github.com/gflobo/journalhost/issues/new?assignees=&labels=enhancement&projects=&template=%E2%9C%A8-feature-request.md&title=%5BFeature+Request%5D%3A+). Seja o mais detalhado possível, descrevendo qual problema esse recurso resolveria e como ele beneficiaria os usuários do Journalhost.
+3. **Discuta primeiro**: se você não tiver certeza se sua ideia é viável ou se está alinhada aos objetivos do projeto, fique à vontade para [iniciar uma GitHub Discussion](https://github.com/gflobo/journalhost/discussions/new/choose) para obter feedback da comunidade.
 
-## Making PRs (Pull Requests)
+## Criando PRs (Pull Requests)
 
-### Solving an Issue
+### Resolver uma Issue
 
-Browse through the existing issues to find one that interests you. You can use labels to filter the issues. See the [Label](https://github.com/satnaing/astro-paper/labels) section for more information.
+Navegue pelas issues existentes para encontrar uma que seja do seu interesse. Você pode usar as labels para filtrar as issues. Consulte a seção de [Labels](https://github.com/gflobo/journalhost/labels) para obter mais informações.
 
-### Making Changes to a Blog Post
+### Fazer alterações em uma publicação do blog
 
-For small changes like typos, syntax fixes, or broken links, click the "Suggest Changes" link below the title of any blog post. This will take you to the .md file, where you can make your changes and submit a pull request for review. For more significant changes to a blog post, it’s recommended to open a new issue or discussion first.
+Para pequenas alterações, como correções de erros de digitação, ajustes de sintaxe ou correção de links quebrados, clique no link **"Suggest Changes"** abaixo do título de qualquer publicação do blog. Isso levará você ao arquivo `.md`, onde poderá fazer suas alterações e enviar um pull request para revisão.
 
-## Helping with GitHub Issues/Discussions
+Para alterações mais significativas em uma publicação do blog, recomendamos abrir primeiro uma nova issue ou discussion.
 
-GitHub Discussions and Issues are great places to help others. Whether you're a long-time user of Journalhost or just have experience with a specific problem, we encourage you to answer questions or solve issues when possible.
+## Ajudar com Issues/Discussions do GitHub
 
-## Reviewing Existing PRs
+As GitHub Discussions e Issues são ótimos lugares para ajudar outras pessoas. Seja você um usuário antigo do Journalhost ou alguém com experiência em um problema específico, incentivamos você a responder perguntas ou solucionar issues sempre que possível.
 
-You can help by reviewing and providing feedback on open PRs. Different perspectives can be very helpful.
+## Revisar PRs existentes
 
-Since Journalhost doesn’t currently have automated testing, it’s especially useful if you can do manual testing on open PRs and provide feedback.
+Você pode ajudar revisando e fornecendo feedback em PRs abertos. Diferentes perspectivas podem ser muito úteis.
 
-## Starting a Discussion
+Como o Journalhost atualmente não possui testes automatizados, é especialmente útil realizar testes manuais nos PRs abertos e fornecer feedback.
 
-If you’re unsure whether your issue warrants a fix or if you just want to share ideas and get feedback, feel free to [start a GitHub discussion](https://github.com/satnaing/astro-paper/discussions/new/choose). It’s a great way to engage with the community.
+## Iniciar uma discussão
+
+Se você não tiver certeza se o seu problema merece uma correção ou se simplesmente quiser compartilhar ideias e receber feedback, fique à vontade para [iniciar uma discussão no GitHub](https://github.com/gflobo/journalhost/discussions/new/choose). É uma ótima maneira de interagir com a comunidade.

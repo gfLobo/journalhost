@@ -1,27 +1,27 @@
 ---
-name: "\U0001F41E Bug report"
-about: Report a bug or unexpected behavior in Journalhost
+name: "\U0001F41E Relatório de Bug"
+about: Relate um bug ou comportamento inesperado no Journalhost
 title: "[BUG]: "
 labels: bug
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descreva o bug**
+Uma descrição clara e concisa do bug.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Como reproduzir**
+Passos para reproduzir o comportamento:
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Acesse '...'
+2. Clique em '....'
+3. Role a página para baixo até '....'
+4. Veja o erro
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamento esperado**
+Uma descrição clara e concisa do que você esperava que acontecesse.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Capturas de tela**
+Se aplicável, adicione capturas de tela para ajudar a explicar o problema.
 
-**Additional context**
-Add any other context about the problem here.
+**Contexto adicional**
+Adicione aqui qualquer outro contexto sobre o problema.

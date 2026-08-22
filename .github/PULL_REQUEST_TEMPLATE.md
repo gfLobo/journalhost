@@ -1,30 +1,30 @@
-## Description
+## Descrição
 
-<!-- A clear and concise description of what the pull request does. Include any relevant motivation and background. -->
+<!-- Uma descrição clara e concisa do que o pull request faz. Inclua qualquer motivação e contexto relevantes. -->
 
-## Types of changes
+## Tipos de alterações
 
-<!-- What types of changes does your code introduce to Journalhost? Put an `x` in the boxes that apply -->
+<!-- Que tipos de alterações seu código introduz no Journalhost? Coloque um `x` nas caixas que se aplicam -->
 
-- [ ] Bug Fix (non-breaking change which fixes an issue)
-- [ ] New Feature (non-breaking change which adds functionality)
-- [ ] Documentation Update (if none of the other choices apply)
-- [ ] Others (any other types not listed above)
+- [ ] Correção de Bug (alteração que não quebra funcionalidades e corrige um problema)
+- [ ] Novo Recurso (alteração que não quebra funcionalidades e adiciona uma nova funcionalidade)
+- [ ] Atualização da Documentação (caso nenhuma das outras opções se aplique)
+- [ ] Outros (qualquer outro tipo não listado acima)
 
 ## Checklist
 
-<!-- Please follow this checklist and put an x in each of the boxes, like this: [x]. You can also fill these out after creating the PR. This is simply a reminder of what we are going to look for before merging your code. -->
+<!-- Siga este checklist e coloque um x em cada uma das caixas, desta forma: [x]. Você também pode preenchê-lo depois de criar o PR. Este é apenas um lembrete do que iremos verificar antes de fazer o merge do seu código. -->
 
-- [ ] I have read the [Contributing Guide](https://github.com/satnaing/astro-paper/blob/main/.github/CONTRIBUTING.md)
-- [ ] I have added the necessary documentation (if appropriate)
-- [ ] Breaking Change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Eu li o [Guia de Contribuição](https://github.com/gflobo/journalhost/blob/main/.github/CONTRIBUTING.md)
+- [ ] Eu adicionei a documentação necessária (quando apropriado)
+- [ ] Alteração que quebra compatibilidade (correção ou recurso que faria com que funcionalidades existentes não funcionassem como esperado)
 
-## Further comments
+## Comentários adicionais
 
-<!-- If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc... -->
+<!-- Se esta for uma alteração relativamente grande ou complexa, inicie a discussão explicando por que você escolheu a solução adotada, quais alternativas considerou etc. -->
 
-## Related Issue
+## Issue relacionada
 
-<!-- If this PR is related to an existing issue, link to it here. -->
+<!-- Se este PR estiver relacionado a uma issue existente, coloque o link aqui. -->
 
-Closes: #<!-- Issue number, if applicable -->
+Closes: #<!-- Número da issue, se aplicável -->

@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Journalhost Discussions
-    url: https://github.com/satnaing/astro-paper/discussions
-    about: Please ask and answer questions here.
+  - name: Journalhost Discussões
+    url: https://github.com/gflobo/journalhost/discussions
+    about: Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para abrir uma discussão no repositório do Journalhost.

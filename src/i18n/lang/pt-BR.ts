@@ -28,7 +28,7 @@ export default {
     page: "Page",
   },
   home: {
-    socialLinks: "Links Sociais",
+    socialLinks: "Redes Sociais",
     featured: "Destacado",
     recentPosts: "Posts Recentes",
     allPosts: "Todos os Posts",
