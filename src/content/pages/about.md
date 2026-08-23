@@ -13,11 +13,13 @@ da atenção às ideias e ao progresso. A velocidade dos conteúdos digitais par
 enfraquecido o interesse pela criação, pela leitura e pela apreciação cuidadosa do conhecimento.
 Infelizmente tudo parece se tornar um serviço ou produto, seja em uma assinatura ou estatística analítica.
 
-Este blog segue justamente na direção oposta. Se trata apenas de um jornal feito por mim, 
-[Gustavo Lobo](https://github.com/gflobo), um desenvolvedor de software que compartilha aprendizados e
+Este blog segue justamente na direção oposta. Se trata apenas de um jornal feito por mim, <a href="https://github.com/gflobo" target="_blank" rel="noopener noreferrer">Gustavo Lobo</a>, um desenvolvedor de software que compartilha aprendizados e
 reflexões do dia a dia, tanto no ambiente de trabalho quanto em projetos pessoais relacionados à tecnologia.
 
-Como entusiasta do mundo [Free software](https://www.fsf.org/) e [Open Source Initiative](https://opensource.org/),
+Como entusiasta do mundo
+<a href="https://www.fsf.org/" target="_blank" rel="noopener noreferrer">Free software</a>
+e
+<a href="https://opensource.org/" target="_blank" rel="noopener noreferrer">Open Source Initiative</a>,
 gostaria de também contribuir, ainda que modestamente, para essas iniciativas/comunidades,
 como forma de espalhar o ideal da tecnologia como uma ferramenta de resolução de
 problemas e aprimoramento da sociedade.
@@ -26,7 +28,7 @@ problemas e aprimoramento da sociedade.
 
 ## Recursos
 
-O **Journalhost** herda do **[AstroPaper](https://github.com/satnaing/astro-paper)** um conjunto de recursos que tornam a publicação de conteúdo simples, rápida e eficiente:
+O **Journalhost** herda do <a href="https://github.com/satnaing/astro-paper" target="_blank" rel="noopener noreferrer">AstroPaper</a> um conjunto de recursos que tornam a publicação de conteúdo simples, rápida e eficiente:
 
 - Otimizado para SEO.
 - Alto desempenho e carregamento rápido.
@@ -34,7 +36,7 @@ O **Journalhost** herda do **[AstroPaper](https://github.com/satnaing/astro-pape
 - Altamente personalizável.
 - Organização eficiente de artigos e conteúdo.
 - Layout responsivo e acessível.
-- Busca estática integrada com **[Pagefind](https://pagefind.app/)**.
+- Busca estática integrada com <a href="https://pagefind.app" target="_blank" rel="noopener noreferrer">Pagefind</a> .
 - Geração automática de imagens para compartilhamento em redes sociais.
 
 ## Feedback, Sugestões e Contribuições
@@ -42,4 +44,4 @@ O **Journalhost** herda do **[AstroPaper](https://github.com/satnaing/astro-pape
 Sinta-se à vontade para abrir uma issue caso encontre algum bug, queira solicitar novos recursos ou mesmo se quiser contribuir com uma nova publicação.
 
 ### Mais informações
-Confira o **[README](https://github.com/gflobo/journalhost#readme)** do blog no Github para mais informações e crie o seu próprio blog a partir deste!
+Confira o <a href="https://github.com/gflobo/journalhost#readme" target="_blank" rel="noopener noreferrer">README</a> do blog no Github para mais informações e crie o seu próprio blog a partir deste!
