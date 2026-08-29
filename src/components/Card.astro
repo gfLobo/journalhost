@@ -6,9 +6,16 @@ import Datetime from "./Datetime.astro";
 
 type Props = {
   variant?: "h2" | "h3";
+  size?: "sm" | "lg";
 } & CollectionEntry<"posts">;
 
-const { variant: Heading = "h2", id, data, filePath } = Astro.props;
+const {
+  variant: Heading = "h2",
+  id,
+  data,
+  filePath,
+  size = "sm",
+} = Astro.props;
 
 const { title, description, ...props } = data;
 ---
@@ -26,6 +33,12 @@ const { title, description, ...props } = data;
       {title}
     </Heading>
   </a>
-  <Datetime {...props} />
+  <div class="flex items-center gap-2" class:list={["text-sm text-muted-foreground", { "sm:text-base": size === "lg" }]}>
+    <Datetime {...props} />
+    <div>{" - "}</div>
+    <p>
+      {props.author}
+    </p>
+  </div>
   <p>{description}</p>
 </li>

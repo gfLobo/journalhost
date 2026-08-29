@@ -54,15 +54,17 @@ type AdjacentPost = {
 
 type Props = {
   post: CollectionEntry<"posts">;
+  size?: "sm" | "lg";
   prevPost: AdjacentPost;
   nextPost: AdjacentPost;
 };
 
-const { post, prevPost, nextPost } = Astro.props;
+const { post, prevPost, nextPost, size = "sm" } = Astro.props;
 const locale = Astro.currentLocale ?? config.site.lang;
 
 const {
   title,
+  author,
   description,
   ogImage: initOgImage,
   canonicalURL,
@@ -121,7 +123,13 @@ const ogImage = ogImageUrl
     </h1>
 
     <div class="my-2 flex items-center gap-2">
+      <div class="flex items-center gap-2" class:list={["text-sm text-muted-foreground", { "sm:text-base": size === "lg" }]}>
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+      <div>{" - "}</div>
+      <p>
+        {author}
+      </p>
+  </div>
       <span
         aria-hidden="true"
         class:list={[

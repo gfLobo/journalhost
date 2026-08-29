@@ -1,6 +1,9 @@
 import type { UIStrings } from "../types";
 
 export default {
+  time:{
+    format:"LL"
+  },
   nav: {
     home: "Home",
     posts: "Posts",

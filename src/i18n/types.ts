@@ -1,4 +1,7 @@
 export interface UIStrings {
+  time:{
+    format:string;
+  },
   nav: {
     home: string;
     posts: string;

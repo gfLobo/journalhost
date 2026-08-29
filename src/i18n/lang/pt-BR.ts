@@ -1,6 +1,9 @@
 import type { UIStrings } from "../types";
 
 export default {
+  time:{
+    format:"LL"
+  },
   nav: {
     home: "Home",
     posts: "Posts",
@@ -64,7 +67,7 @@ export default {
     goToNextPage: "Ir para a próxima página",
   },
   notFound: {
-    title: "404 Not Found",
+    title: "404 Não Encontrada",
     message: "Página Não Encontrada",
     goHome: "Voltar para a página inicial",
   },
