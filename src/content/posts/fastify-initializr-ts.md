@@ -1,6 +1,6 @@
 ---
-title: "fastify-initializr-ts: Construindo uma CLI boostrap para API's Typescript"
-description: "Construindo uma CLI boostrap para API's Typescript"
+title: "fastify-initializr-ts: Construindo uma CLI bootstrap para API's Typescript"
+description: "Construindo uma CLI bootstrap para API's Typescript"
 pubDatetime: 2026-08-29T00:00:00Z
 author: "Gustavo Lobo"
 featured: true
@@ -39,18 +39,18 @@ Porém, o processo muitas vezes acaba sendo, não a
 complexidade, mas a **repetição**.
 
 
-É exatamente aí que entra um gerador **boostrap**.
+É exatamente aí que entra um gerador **bootstrap**.
 
 > [!TIP] 
 > A ideia central
 > 
-> Um boostrap não precisa resolver todos os problemas de uma aplicação.
+> Um bootstrap não precisa resolver todos os problemas de uma aplicação.
 > Ele precisa eliminar o trabalho repetitivo que acontece antes de a 
 > aplicação realmente começar.
 
 ---
 
-## Boostraps
+## Bootstraps
 
 Em tecnologia, bootstrap é o processo de iniciar um sistema a partir de uma estrutura mínima que permite sua evolução.
 
