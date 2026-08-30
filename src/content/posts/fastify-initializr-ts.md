@@ -1,7 +1,7 @@
 ---
 title: "fastify-initializr-ts: Construindo uma CLI boostrap para API's Typescript"
 description: "Construindo uma CLI boostrap para API's Typescript"
-pubDatetime: 2026-08-29T20:00:00Z
+pubDatetime: 2026-08-29T00:00:00Z
 author: "Gustavo Lobo"
 featured: true
 draft: false
