@@ -7,13 +7,13 @@ featured: true
 draft: false
 tags:
     - tecnofeudalismo
-    - computação em nuvem
-    - aprisionamento tecnológico
-    - vigilância global
-    - big tech
-    - inteligência artificial
+    - computação-em-nuvem
+    - aprisionamento-tecnológico
+    - vigilância-global
+    - big-tech
+    - inteligência-artificial
 hideEditPost: false
-timezone: "America/Sao_Paulo"
+timezone: "America/Maceio"
 ---
 
 
