@@ -115,7 +115,7 @@ Junto à dados oficiais de diversas outras empresas de cibersegurança e infraes
 
 <iframe class="cf-radar-embed" width="800" height="512" src="https://radar.cloudflare.com/embed/BotHumanXY?theme=system&dateRange=7d&locale=pt-BR&ref=%2Fpt-br%2Ftraffic" title="Cloudflare Radar - Bot versus humano" loading="lazy" scrolling="no" style="border:0;max-width:100%;"></iframe>
 
-> Agora, o teor das coletas de dados além do usual perfilamento dos usuários por meio de metadados correlacionais entre aplicações em nuvens diversas, é iniciada uma etapa de influência ativa na vida dos cidadãos através do uso da inteligência artificial.
+> As coletas de dados, além do usual perfilamento dos usuários por meio de metadados correlacionais entre aplicações em nuvens diversas, dão início a uma etapa de influência ativa na vida dos cidadãos através do uso da inteligência artificial.
 
 
 
@@ -126,7 +126,7 @@ O panorama geral aparente é: utilizar os esforços conjuntos das máquinas info
 
 ## Engenharia de prompt e Aprendizado de máquina
 
-O comportamento atinge em larga escala mesmo a área de desenvolvimento de software, que com o advento das plataformas low code, no code e agentes de IA deixa-se de buscar maturidade e excelência na construção de soluções para promover a bolha especulativa mercadológica de que a programação rasa e o conhecimento passivo são o auge do aperfeiçoamento humano no mundo do software.
+O comportamento atinge em larga escala mesmo a área de desenvolvimento de software, que com o advento das plataformas low code, no code e agentes de IA deixa-se de buscar maturidade e excelência na construção de soluções para promover uma bolha especulativa mercadológica que promove um pseudo-conhecimento passivo superficial por IA generativa.
 
 ![ai_dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAz4uQ44uWcvsDKjKNrG4YukR2e_ku29eKCruI0mhdg11YAwIX1cJbyuzA&s=10)
 
