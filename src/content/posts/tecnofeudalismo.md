@@ -4,7 +4,7 @@ description: "Uma análise do tecnofeudalismo e de como a concentração de infr
 pubDatetime: 2026-09-05T00:00:00Z
 author: "Gustavo Lobo"
 featured: true
-draft: false
+draft: true
 tags:
     - tecnofeudalismo
     - computação-em-nuvem
