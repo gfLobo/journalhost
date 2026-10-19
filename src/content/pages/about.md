@@ -5,16 +5,7 @@ description: "Um pouco sobre mim e este blog."
 **Journalhost** é um blog minimalista e pessoal, criado para compartilhar experiências,
 aprendizados, reflexões sobre tecnologia e desenvolvimento de software. 
 
-Acredito que, por meio do compartilhamento de informações e vivências reais, podemos 
-nos aperfeiçoar cada vez mais como profissionais e seres humanos. 
-
-Em um mundo focado cada vez mais em resultados e engajamento percebo uma decadência 
-da atenção às ideias e ao progresso. A velocidade dos conteúdos digitais parece ter
-enfraquecido o interesse pela criação, pela leitura e pela apreciação cuidadosa do conhecimento.
-Infelizmente tudo parece se tornar um serviço ou produto, seja em uma assinatura ou estatística analítica.
-
-Este blog segue justamente na direção oposta. Se trata apenas de um jornal feito por mim, <a href="https://github.com/gflobo" target="_blank" rel="noopener noreferrer">Gustavo Lobo</a>, um desenvolvedor de software que compartilha aprendizados e
-reflexões do dia a dia, tanto no ambiente de trabalho quanto em projetos pessoais relacionados à tecnologia.
+Acredito que, por meio do compartilhamento de informações e vivências reais, podemos nos aperfeiçoar cada vez mais.
 
 Como entusiasta do mundo
 <a href="https://www.fsf.org/" target="_blank" rel="noopener noreferrer">Free software</a>
